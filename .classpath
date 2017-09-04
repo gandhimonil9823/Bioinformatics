@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/BIOJAVA"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Documents/CS 46B Workspace/biojava-alignment-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Documents/CS 46B Workspace/biojava-genome-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Documents/CS 46B Workspace/biojava-structure-4.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Desktop/CS 46B Workspace/Bioinformatics/src/slf4j-1.7.21/slf4j-1.7.21/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Desktop/CS 46B Workspace/Bioinformatics/src/slf4j-1.7.21/slf4j-1.7.21/slf4j-jdk14-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Desktop/CS 46B Workspace/Bioinformatics/src/Jmol-14.6.4_2016.11.05-binary/jmol-14.6.4_2016.11.05/Jmol.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Desktop/CS 46B Workspace/Bioinformatics/src/biojava-structure-gui-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gandhimonil/Desktop/CS 46B Workspace/Bioinformatics/src/data/structures/divided/pdb/iy"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
